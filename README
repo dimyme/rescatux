@@ -1,4 +1,14 @@
-This is Rescatux, a Debian Live (based on live-build) CD aimed at easy rescue.
+This is Rescatux, a Debian Live CDROM , made from the debian package "live-build".
+aimed at limited rescue functions made in a very unintuitive, convoluted GUI manner (LXQt DE rather than K DE).
+
+
+usually all packages are left in default state so it looks disgusting upon boot, 
+if you see anything at all. TUX magazines shipped with SGD2 as a complete DVD side, wasting 99% of 4,7 GB
+
+
+______________________________________________
+
+
 
 Please visit the official web page of Rescatux, for more information.
 The URL is <http://www.supergrubdisk.org/rescatux/>.
