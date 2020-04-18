@@ -5,6 +5,8 @@ aimed at limited rescue functions made in a very unintuitive, convoluted GUI man
 usually all packages are left in default state so it looks disgusting upon boot, 
 if you see anything at all. TUX magazines shipped with SGD2 as a complete DVD side, wasting 99% of 4,7 GB
 
+A key concept of rescueTUX is to scatter the Docs across various SourceForge URL’s, github, websites, mailing-list and god knows what else, and then to - for good measure - also throw in a bunch of dead links. This achieves to goal of breaking everybody’s workflow. 
+
 
 ______________________________________________
 
